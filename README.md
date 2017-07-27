@@ -1,2 +1,3 @@
 # Hello-World
-Hello wold repository
+Hello world repository
+Adding a little text to show changes.
